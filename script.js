@@ -6,7 +6,7 @@ let score = 20;
 
 let highscr = 0;
 
-console.log(val);
+// console.log(val);
 
 const displayOutval = function (message) {
   document.querySelector('.outval').innerHTML = message;
