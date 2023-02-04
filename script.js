@@ -59,5 +59,5 @@ document.querySelector('.tryagain').addEventListener('click', function () {
   document.querySelector('.outval').style.backgroundColor = '';
   document.querySelector('.inputval').value = '';
   val = Math.trunc(Math.random() * 20 + 1);
-  console.log(val);
+  // console.log(val);
 });
